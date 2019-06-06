@@ -1,5 +1,6 @@
 // MainActivity.java
 // Calculates bills using 15% and custom percentage tips.
+//I'm adding an edit now. Where will changes appear
 package com.deitel.tipcalculator;
 
 import java.text.NumberFormat; // for currency formatting
